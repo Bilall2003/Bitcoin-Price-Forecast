@@ -68,7 +68,7 @@ compare machine learning models, and predict Bitcoin prices.
 <li>Random Forest Regressor</li>
 </ul>
 
-<h3>💻 Model Evaluation</h3>
+<h3>🧾 Model Evaluation</h3>
 
 <ul>
 <li>Mean Absolute Error (MAE)</li>
@@ -119,7 +119,7 @@ compare machine learning models, and predict Bitcoin prices.
 
 <tr>
 <td><b>Deployment</b></td>
-<td>Streamlit</td>
+<td>GUI</td>
 </tr>
 
 </table>
@@ -136,7 +136,7 @@ compare machine learning models, and predict Bitcoin prices.
 <li>Train Machine Learning Models</li>
 <li>Evaluate Model Performance</li>
 <li>Predict Bitcoin High & Low Prices</li>
-<li>Deploy with Streamlit</li>
+<li>Deploy with GUI</li>
 </ol>
 
 <hr>
