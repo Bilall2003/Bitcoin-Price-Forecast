@@ -1,9 +1,8 @@
-numpy 
+numpy
 pandas
 matplotlib
 seaborn
-scikit-Learn
-#        FOR GUI
-tkinter
-PIL
+scikit-learn
+pillow
+EOF
 
