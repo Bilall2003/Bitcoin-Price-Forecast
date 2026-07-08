@@ -119,7 +119,7 @@ compare machine learning models, and predict Bitcoin prices.
 
 <tr>
 <td><b>Deployment</b></td>
-<td>GUI</td>
+<td>GUI, tkinter</td>
 </tr>
 
 </table>
