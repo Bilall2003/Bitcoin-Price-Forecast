@@ -80,7 +80,7 @@ compare machine learning models, and predict Bitcoin prices.
 <h3>💻 GUI Application</h3>
 
 <ul>
-<li>Interactive dashboard</li>
+<li>Interactive dashboard using tkinter</li>
 <li>Explore historical Bitcoin prices</li>
 <li>Train and compare ML models</li>
 <li>Predict High and Low prices</li>
