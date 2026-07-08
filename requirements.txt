@@ -3,6 +3,5 @@ pandas
 matplotlib
 seaborn
 scikit-learn
-pillow
-EOF
+streamlit
 
