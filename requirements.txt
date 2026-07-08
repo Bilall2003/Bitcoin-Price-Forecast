@@ -1,0 +1,9 @@
+numpy 
+pandas
+matplotlib
+seaborn
+scikit-Learn
+#        FOR GUI
+tkinter
+PIL
+
