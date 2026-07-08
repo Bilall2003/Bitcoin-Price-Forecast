@@ -145,11 +145,11 @@ class ML:
     def run(self, model_name: str):
         df = self.df.copy()
 
-        X1 = df.drop(columns=["Date", "High"], axis=1, errors="ignore")
+        X1 = df.drop(columns=["Date", "High"], errors="ignore")
         Y1 = df["High"]
         x_train1, x_test1, y_train1, y_test1 = train_test_split(X1, Y1, random_state=101, train_size=0.7)
 
-        X2 = df.drop(columns=["Date", "Low"], axis=1, errors="ignore")
+        X2 = df.drop(columns=["Date", "Low"], errors="ignore")
         Y2 = df["Low"]
         x_train2, x_test2, y_train2, y_test2 = train_test_split(X2, Y2, random_state=42, train_size=0.7)
 
