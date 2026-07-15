@@ -164,6 +164,10 @@ pip install -r requirements.txt
 <li>Run the Streamlit Application</li>
 </ol>
 
+<pre>
+streamlit run app.py
+</pre>
+
 <hr>
 
 
