@@ -149,7 +149,7 @@ compare machine learning models, and predict Bitcoin prices.
 
 <pre>
 git clone https://github.com/your-username/Bitcoin-Price-Forecast.git
-cd house-price-prediction
+cd Bitcoin-Price-Forecast
 </pre>
 
 <ol start="2">
