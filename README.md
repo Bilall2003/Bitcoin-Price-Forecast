@@ -141,6 +141,32 @@ compare machine learning models, and predict Bitcoin prices.
 
 <hr>
 
+<h2>▶️ How to Run</h2>
+
+<ol>
+<li>Clone the Repository</li>
+</ol>
+
+<pre>
+git clone https://github.com/your-username/house-price-prediction.git
+cd house-price-prediction
+</pre>
+
+<ol start="2">
+<li>Install Dependencies</li>
+</ol>
+
+<pre>
+pip install -r requirements.txt
+</pre>
+
+<ol start="3">
+<li>Run the Streamlit Application</li>
+</ol>
+
+<hr>
+
+
 <h2>🎯 Objective</h2>
 
 <p>
